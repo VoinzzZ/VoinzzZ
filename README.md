@@ -1,9 +1,9 @@
-# Hey there! 👋 I'm Antony K.n
+# Hey there! 👋 I'm Antony Kurniawan
 
 ## 🚀 Tech Explorer
 
 🔥 Passionate about creating mobile apps and building modern web experiences.  
-🌱 Currently exploring Flutter, React.js, and UI/UX design principles.  
+🌱 Currently exploring React Native, React, Node.js, TypeScript, and UI/UX design principles.  
 💡 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.
 
 ## 🛠️ Tech Stack
@@ -22,62 +22,31 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![VoinzzZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoinzzZ&show_icons=true&theme=dark)
-
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoinzzZ&layout=compact&theme=dark)
-
-</div>
+![VoinzzZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoinzzZ&show_icons=true&theme=react&hide_border=true&title_color=0CF2F2&text_color=00FFFF&icon_color=0CF2F2)
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VoinzzZ&theme=dark)
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=VoinzzZ&theme=cyan-verte)
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VoinzzZ&theme=darkhub)
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VoinzzZ&theme=cyan-verte)
 
 ## 💻 Most Used Languages
 
-<div align="center">
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyKN&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoinzzZ&layout=compact&theme=react&hide_border=true&title_color=0CF2F2&text_color=00FFFF&bg_color=0D1117)
 
 ## 🌐 Find me around the web
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/voinz_)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/voinz_)
 
 ## 📈 Activity Graph
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoinzzZ&theme=react-dark)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoinzzZ&theme=react-dark&color=00FFFF&line=0CF2F2&point=0CF2F2)
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=VoinzzZ&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/VoinzzZ?color=58A6FF&style=flat-square&logo=github&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=VoinzzZ&color=0CF2F2&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/VoinzzZ?color=0CF2F2&style=flat-square&logo=github&label=FOLLOWERS)
 
-*""Eat, Sleep, Code, Repeat.""*
-
-</div>
+*"Eat, Sleep, Code, Repeat."*
