@@ -20,17 +20,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
-
-![VoinzzZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoinzzZ&show_icons=true&theme=react&hide_border=true&title_color=0CF2F2&text_color=00FFFF&icon_color=0CF2F2)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VoinzzZ&theme=cyan-verte)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VoinzzZ&theme=cyan-verte)
 
 ## 💻 Most Used Languages
 
