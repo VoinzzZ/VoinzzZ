@@ -3,8 +3,7 @@
 ## 🚀 Tech Explorer
 
 🔥 Passionate about creating mobile apps and building modern web experiences.  
-🌱 Currently exploring React, Node.js, TypeScript, and UI/UX design principles.  
-💡 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.
+🌱 Currently exploring React, Node.js, TypeScript, and UI/UX design principles.
 
 ## 🛠️ Tech Stack
 
