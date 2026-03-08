@@ -39,10 +39,6 @@
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=VoinzzZ&theme=react&hide_border=true)
 
----
-
-## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoinzzZ&theme=react-dark)
 
 ---
 
