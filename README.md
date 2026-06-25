@@ -1,13 +1,13 @@
-# Hey there! 👋 I'm Antony Kurniawan N
+# Hey there! I'm Antony Kurniawan N
 
-## 🚀 Tech Explorer
+##  Tech Explorer
 
-🔥 Passionate about building mobile apps & modern web experiences  
-🌱 Currently deep-diving into fullstack development & system design
+Passionate about building mobile apps & modern web experiences  
+Currently deep-diving into fullstack development & system design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
