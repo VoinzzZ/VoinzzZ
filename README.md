@@ -15,7 +15,7 @@ Currently deep-diving into fullstack development & system design
 
 ## 🌐 Find me around the web
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/voinz_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-voinzz.vercel.app-0CF2F2?style=for-the-badge&logo=vercel&logoColor=black)](https://voinzz.vercel.app)
+[![Portfolio](https://img.shields.io/badge/antonykurniawan.biz.id-0CF2F2?style=for-the-badge&logo=vercel&logoColor=black)](https://antonykurniawan.biz.id)
 
 ---
 
