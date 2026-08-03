@@ -41,7 +41,6 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VoinzzZ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7&text_color=C9D1D9&ring_color=6C5CE7" alt="Antony's GitHub statistics" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=VoinzzZ&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Antony's GitHub contribution streak" />
 </div>
 
